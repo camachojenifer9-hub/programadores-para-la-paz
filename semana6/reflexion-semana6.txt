@@ -1,0 +1,8 @@
+Las plataformas tecnológicas permiten que los ciudadanos puedan enviar información de manera organizada. 
+El formato JSON facilita que los sistemas puedan entender los datos enviados.
+Además, permite conectar aplicaciones con servidores de una forma sencilla.
+Los reportes ciudadanos ayudan a identificar problemas dentro de una comunidad.
+Express permite crear servicios rápidos para recibir información.
+El uso de req.body facilita procesar datos enviados por usuarios.
+Estas herramientas ayudan a mejorar la comunicación entre ciudadanos e instituciones.
+La tecnología puede apoyar la solución de problemas sociales.
