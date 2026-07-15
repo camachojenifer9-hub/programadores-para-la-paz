@@ -1,0 +1,15 @@
+Se realizó una prueba utilizando la ruta POST /reportes.
+
+Se envió un reporte con la siguiente información:
+
+{
+"tipo":"Infraestructura",
+"descripcion":"Daño en alumbrado público"
+}
+
+
+Después se consultó la ruta GET /reportes.
+
+El servidor devolvió una lista con los reportes almacenados en memoria.
+
+Esto demuestra que el array reportes permite guardar información mientras el servidor permanece activo.
